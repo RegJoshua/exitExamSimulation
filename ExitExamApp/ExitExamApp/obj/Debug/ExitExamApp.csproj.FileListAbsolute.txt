@@ -49,3 +49,16 @@ C:\exitExamSimulation\ExitExamApp\ExitExamApp\obj\Debug\ExitExamApp.Properties.R
 C:\exitExamSimulation\ExitExamApp\ExitExamApp\obj\Debug\ExitExamApp.csproj.GenerateResource.Cache
 C:\exitExamSimulation\ExitExamApp\ExitExamApp\obj\Debug\ExitExamApp.exe
 C:\exitExamSimulation\ExitExamApp\ExitExamApp\obj\Debug\ExitExamApp.pdb
+C:\Users\Joshua\Desktop\XPS\exitExamSimulation\ExitExamApp\ExitExamApp\obj\Debug\ExitExamApp.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\XPS\exitExamSimulation\ExitExamApp\ExitExamApp\obj\Debug\ExitExamApp.ExamMenuForm.resources
+C:\Users\Joshua\Desktop\XPS\exitExamSimulation\ExitExamApp\ExitExamApp\obj\Debug\ExitExamApp.LoginForm.resources
+C:\Users\Joshua\Desktop\XPS\exitExamSimulation\ExitExamApp\ExitExamApp\obj\Debug\ExitExamApp.Properties.Resources.resources
+C:\Users\Joshua\Desktop\XPS\exitExamSimulation\ExitExamApp\ExitExamApp\obj\Debug\ExitExamApp.csproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\XPS\exitExamSimulation\ExitExamApp\ExitExamApp\bin\Debug\ExitExamApp.exe.config
+C:\Users\Joshua\Desktop\XPS\exitExamSimulation\ExitExamApp\ExitExamApp\obj\Debug\ExitExamApp.AddUserForm.resources
+C:\Users\Joshua\Desktop\XPS\exitExamSimulation\ExitExamApp\ExitExamApp\bin\Debug\ExitExamApp.exe
+C:\Users\Joshua\Desktop\XPS\exitExamSimulation\ExitExamApp\ExitExamApp\bin\Debug\ExitExamApp.pdb
+C:\Users\Joshua\Desktop\XPS\exitExamSimulation\ExitExamApp\ExitExamApp\bin\Debug\MySql.Data.dll
+C:\Users\Joshua\Desktop\XPS\exitExamSimulation\ExitExamApp\ExitExamApp\bin\Debug\MySql.Data.xml
+C:\Users\Joshua\Desktop\XPS\exitExamSimulation\ExitExamApp\ExitExamApp\obj\Debug\ExitExamApp.exe
+C:\Users\Joshua\Desktop\XPS\exitExamSimulation\ExitExamApp\ExitExamApp\obj\Debug\ExitExamApp.pdb

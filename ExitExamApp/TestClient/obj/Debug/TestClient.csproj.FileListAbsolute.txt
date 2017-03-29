@@ -10,5 +10,12 @@ C:\exitExamSimulation\ExitExamApp\TestClient\bin\Debug\TestClient.exe.config
 C:\exitExamSimulation\ExitExamApp\TestClient\obj\Debug\TestClient.exe
 C:\exitExamSimulation\ExitExamApp\TestClient\obj\Debug\TestClient.pdb
 C:\Users\Joshua\Desktop\XPS\exitExamSimulation\ExitExamApp\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\Joshua\Desktop\XPS\exitExamSimulation\ExitExamApp\TestClient\bin\Debug\TestClient.exe
+C:\Users\Joshua\Desktop\XPS\exitExamSimulation\ExitExamApp\TestClient\bin\Debug\TestClient.pdb
+C:\Users\Joshua\Desktop\XPS\exitExamSimulation\ExitExamApp\TestClient\bin\Debug\ExitExamApp.exe
+C:\Users\Joshua\Desktop\XPS\exitExamSimulation\ExitExamApp\TestClient\bin\Debug\MySql.Data.dll
+C:\Users\Joshua\Desktop\XPS\exitExamSimulation\ExitExamApp\TestClient\bin\Debug\ExitExamApp.pdb
+C:\Users\Joshua\Desktop\XPS\exitExamSimulation\ExitExamApp\TestClient\bin\Debug\MySql.Data.xml
+C:\Users\Joshua\Desktop\XPS\exitExamSimulation\ExitExamApp\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
 C:\Users\Joshua\Desktop\XPS\exitExamSimulation\ExitExamApp\TestClient\obj\Debug\TestClient.exe
 C:\Users\Joshua\Desktop\XPS\exitExamSimulation\ExitExamApp\TestClient\obj\Debug\TestClient.pdb

@@ -14,13 +14,24 @@ namespace ExitExamApp
     {
         private int exitCode;
 
+        DatabaseManager db = new DatabaseManager();
         User user = new User();
+
         public ExamMenuForm()
         {
             InitializeComponent();
             FormBorderStyle = FormBorderStyle.Sizable;
             WindowState = FormWindowState.Maximized;
             TopMost = true;
+        }
+
+        public ExamMenuForm(User user)
+        {
+            InitializeComponent();
+            FormBorderStyle = FormBorderStyle.Sizable;
+            WindowState = FormWindowState.Maximized;
+            TopMost = true;
+
             welcomeLabel.Text = "Welcome, " + user.FirstName + " " + user.LastName + ".";
         }
 

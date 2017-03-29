@@ -8,7 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace XPSAddUserForm
+
+namespace ExitExamApp
 {
     public partial class AddUserForm : Form
     {
@@ -16,7 +17,7 @@ namespace XPSAddUserForm
         {
             InitializeComponent();
         }
-
+        DatabaseManager db = new DatabaseManager();
         /******************************************************************************
          * private void addButton_Click(object sender, EventArgs e)
          * 
@@ -29,18 +30,22 @@ namespace XPSAddUserForm
         {
             try
             {
-            // instantiate new User
-            User theNewUser = new User();
+                // instantiate new User
+                User theNewUser = new User();
 
-            // specify user attributes
-            theNewUser.userID = this.mNumberBox.Text;
-            theNewUser.FirstName = this.firstNameBox.Text;
-            theNewUser.lastName = this.lastNameBox.Text;
-            theNewUser.userName = this.userNameBox.Text;
-            theNewUser.passWord = this.passWordBox.Text;
+                // specify user attributes
+                try
+                { theNewUser.UserID = Int32.Parse(this.mNumberBox.Text); }
+                catch (Exception ex)
+                { MessageBox.Show("Please enter ony integers for the M number."); }
 
-            // send User object to Database Manager- so indicate if no joy
-            bool success = DatabaseManager.InsertUser(theNewUser);
+                theNewUser.FirstName = this.firstNameBox.Text;
+                theNewUser.LastName = this.lastNameBox.Text;
+                theNewUser.UserName = this.userNameBox.Text;
+                theNewUser.PassWord = this.passwordBox.Text;
+
+                // send User object to Database Manager- so indicate if no joy
+                bool success = db.InsertUser(theNewUser);
                 if (!success) MessageBox.Show("User not added.");
             }
             catch (NullReferenceException)

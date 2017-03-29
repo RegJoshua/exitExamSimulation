@@ -1,4 +1,4 @@
-﻿namespace XPSAddUserForm
+﻿namespace ExitExamApp
 {
     partial class AddUserForm
     {

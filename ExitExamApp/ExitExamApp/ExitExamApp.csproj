@@ -132,7 +132,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="Models\App.config" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
